@@ -13,7 +13,7 @@ takes some inputs, does some logic operations
 
 ## How to test
 
-Explain how to use your project
+none. some logic i guess
 
 ## External hardware
 
