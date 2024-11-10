@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-takes some inputs, does some logic operations
+takes 4 bit inputs, loads and displays
+
+switches 7/8 to load upper 4 bits and then lower
 
 ## How to test
 
-none. some logic i guess
-
+play with switches
 ## External hardware
 
 none
